@@ -1,0 +1,2 @@
+﻿"model";"tag";"load_s";"size_in_memory_GB";"size_in_vram_GB";"gpu_share_pct";"gpu_peak_total_GB";"gen_tps_short";"gen_tps_long";"pp_tps_long";"ttft_s_short";"ttft_s_long";"max_ctx_full_gpu"
+"GPT-OSS 20B";"gpt-oss:20b";"33,8";"11,87";"11,87";"100";"14,56";"150,7";"150,2";"9212,1";"0,06";"0,44";"65536"

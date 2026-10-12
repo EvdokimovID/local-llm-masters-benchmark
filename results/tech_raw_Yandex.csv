@@ -1,0 +1,7 @@
+﻿"model";"prompt";"run";"prompt_tokens";"gen_tokens";"gen_tps";"pp_tps";"ttft_s";"total_s"
+"YandexGPT 5 Lite 8B";"short";"1";"88";"375";"142,8";"4695,8";"0,02";"2,66"
+"YandexGPT 5 Lite 8B";"short";"2";"88";"388";"151,1";"4526,5";"0,03";"2,6"
+"YandexGPT 5 Lite 8B";"short";"3";"87";"400";"148,4";"4291,6";"0,03";"2,73"
+"YandexGPT 5 Lite 8B";"long";"1";"3091";"230";"137,7";"6910,7";"0,45";"2,16"
+"YandexGPT 5 Lite 8B";"long";"2";"3089";"218";"140,6";"6965,8";"0,45";"2,11"
+"YandexGPT 5 Lite 8B";"long";"3";"3088";"235";"134,5";"6945,4";"0,45";"2,31"

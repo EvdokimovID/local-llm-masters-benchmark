@@ -1,0 +1,7 @@
+﻿"model";"num_ctx";"size_GB";"vram_GB";"fully_on_gpu"
+"GPT-OSS 20B";"4096";"11,86";"11,86";"True"
+"GPT-OSS 20B";"8192";"11,87";"11,87";"True"
+"GPT-OSS 20B";"16384";"11,87";"11,87";"True"
+"GPT-OSS 20B";"32768";"11,89";"11,89";"True"
+"GPT-OSS 20B";"65536";"11,92";"11,92";"True"
+"GPT-OSS 20B";"131072";"13,31";"10,64";"False"

@@ -1,0 +1,7 @@
+﻿"model";"num_ctx";"size_GB";"vram_GB";"fully_on_gpu"
+"YandexGPT 5 Lite 8B";"4096";"4,91";"4,91";"True"
+"YandexGPT 5 Lite 8B";"8192";"5,53";"5,53";"True"
+"YandexGPT 5 Lite 8B";"16384";"6,54";"6,54";"True"
+"YandexGPT 5 Lite 8B";"32768";"8,58";"8,58";"True"
+"YandexGPT 5 Lite 8B";"65536";"8,58";"8,58";"True"
+"YandexGPT 5 Lite 8B";"131072";"8,58";"8,58";"True"

@@ -1,0 +1,7 @@
+﻿"model";"num_ctx";"size_GB";"vram_GB";"fully_on_gpu"
+"GigaChat 3.1 10B-A1.8B";"4096";"6,14";"6,14";"True"
+"GigaChat 3.1 10B-A1.8B";"8192";"6,36";"6,36";"True"
+"GigaChat 3.1 10B-A1.8B";"16384";"6,61";"6,61";"True"
+"GigaChat 3.1 10B-A1.8B";"32768";"7,1";"7,1";"True"
+"GigaChat 3.1 10B-A1.8B";"65536";"8,4";"8,4";"True"
+"GigaChat 3.1 10B-A1.8B";"131072";"10,47";"10,47";"True"

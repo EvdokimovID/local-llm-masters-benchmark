@@ -1,0 +1,2 @@
+﻿"model";"tag";"load_s";"size_in_memory_GB";"size_in_vram_GB";"gpu_share_pct";"gpu_peak_total_GB";"gen_tps_short";"gen_tps_long";"pp_tps_long";"ttft_s_short";"ttft_s_long";"max_ctx_full_gpu"
+"Gemma 4 26B-A4B";"gemma4:26b";"46,3";"1,22";"0,92";"76";"15,43";"103,6";"97,5";"3006";"0,14";"1,28";

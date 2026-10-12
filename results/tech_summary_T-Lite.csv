@@ -1,0 +1,2 @@
+﻿"model";"tag";"load_s";"size_in_memory_GB";"size_in_vram_GB";"gpu_share_pct";"gpu_peak_total_GB";"gen_tps_short";"gen_tps_long";"pp_tps_long";"ttft_s_short";"ttft_s_long";"max_ctx_full_gpu"
+"T-Lite-it 2.1";"hf.co/t-tech/T-lite-it-2.1-GGUF:Q4_K_M";"3,1";"5,68";"5,68";"100";"8,44";"142,2";"131,2";"6776,6";"0,03";"0,51";"131072"

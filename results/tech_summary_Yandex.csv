@@ -1,0 +1,2 @@
+﻿"model";"tag";"load_s";"size_in_memory_GB";"size_in_vram_GB";"gpu_share_pct";"gpu_peak_total_GB";"gen_tps_short";"gen_tps_long";"pp_tps_long";"ttft_s_short";"ttft_s_long";"max_ctx_full_gpu"
+"YandexGPT 5 Lite 8B";"hf.co/yandex/YandexGPT-5-Lite-8B-instruct-GGUF:Q4_K_M";"7,4";"5,53";"5,53";"100";"8,15";"148,4";"137,7";"6945,4";"0,03";"0,45";"131072"
